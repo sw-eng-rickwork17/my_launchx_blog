@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://sw-eng-rickwork17.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Impresiones de lo aprendido en Launch X</title>
+      <link>https://sw-eng-rickwork17.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-eng-rickwork17.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola, soy el explorer Ricardo Echeverría, y me gustaría contar que la he pasado de lo mejor aprendiendo con los Mission Commanders de las diferentes misiones en las que he estado, desde el Onboarding, hasta la Misión Back-end que es en donde actualimente nos encontramos, he reforzado mis habilidades para desarrollar en la parte de FrontEnd, con CSS, Html, y Javascript, y está muy cool saber que el resto de la tripulación de explorers también han aprendido y lo han demostrado compartiendo su conocimiento y su apoyo en cada momento de la travesía, espero que le hayan sacado el máximo provecho, y que todo lo aprendido sea para que puedan formar parte del ámbito laboral con las mejores prácticas obtenidas en Launch X, ¡Vamos hacia adelante!</description>
+    </item>
+    
+    <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://sw-eng-rickwork17.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Thu, 21 Apr 2022 18:16:21 -0600</pubDate>
